@@ -8,4 +8,5 @@ LibreOffice Writer para editar o conteúdo.
 Imaginei em criar um conteúdo que pudesse mostrar como as novas tecnologias como a IA generativa podem facilitar trabalhos rotineiros, tornando a nossa vida mais ágil e produtiva;
 ## 🚀 Resultados
 O Ebook traz uma visão abrangente de como as Inteligências Artificiais vem transformando nossas vidas, seja no cotidiano em nossas casas, no trânsito, no trabalho ou na educação. É trazido também uma reflexão a respeito da ética e responsabilidade que devemos ter com a utilização dessa tecnologia.
+Ebook Como as Inteligências Artificiais Podem Tornar a Vida Mais Produtiva.pdf
 
