@@ -1,6 +1,6 @@
 # Como as Inteligências Artificiais Podem Tornar a Vida Mais Produtiva
 ## 📒 Descrição
-Um ebook informativo de 12 páginas que visa informar como as Inteligências Artificiais podem tornar nossa vida mais produtiva.
+Um ebook informativo de 12 páginas que visa informar como as Inteligências Artificiais podem facilitar o nosso dia-a-dia .
 ## 🤖 Tecnologias Utilizadas
 Copilot para gerar o roteiro;
 LibreOffice Writer para editar o conteúdo.
