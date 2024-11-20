@@ -2,8 +2,8 @@
 ## 📒 Descrição
 Um ebook informativo de 12 páginas que visa informar como as Inteligências Artificiais podem facilitar o nosso dia-a-dia .
 ## 🤖 Tecnologias Utilizadas
-Copilot para gerar o roteiro;
-##LibreOffice Writer para editar o conteúdo.
+Copilot para gerar o roteiro<br>
+LibreOffice Writer para editar o conteúdo.
 ## 🧐 Processo de Criação
 Imaginei em criar um conteúdo que pudesse mostrar como as novas tecnologias como a IA generativa podem facilitar trabalhos rotineiros, tornando a nossa vida mais ágil e produtiva;
 ## 🚀 Resultados
